@@ -1,0 +1,21 @@
+#F9906B primay
+#105088
+#7F2505
+#ffffff
+#000000
+
+packages 
+
+text to speach
+fluttertts
+Tr@nsl0r_db
+
+api secret
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im12bHR1bXV0bHpqa25ocGhpd2NvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDIzMTM5OTQsImV4cCI6MjAxNzg4OTk5NH0.XbST6sl1OeM7vxk5ytz_rnuP79Mn636lsPdZihHaWww
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im12bHR1bXV0bHpqa25ocGhpd2NvIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcwMjMxMzk5NCwiZXhwIjoyMDE3ODg5OTk0fQ.C58Ye3urphdWQ7YA-aBQgx4CTaK0puwbowPr8grm9VE
+
+
+
+https://products.aspose.app/words/conversion/image-to-word
